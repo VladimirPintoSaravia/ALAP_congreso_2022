@@ -1,38 +1,42 @@
-# **Socioeconomic inequalities in health among Indigenous older adults in Bolivia in times of COVID-19**
+# **Desigualdades sociodemográficas en el auto reporte de síntomas por COVID-19 de las personas mayores bolivianas, por condición étnica**
 
-## You can find the code I used in the development of the paper which is under review for acceptance.
+## Este es el código ultilizado en el paper que se encuentra en revisión de aceptación.
 
-**Author -** Vladimir Pinto Saravia
+**Autor -** Vladimir Pinto Saravia
 
 **E-mail -** vladimir_pinto@hotmail.com
 
-**Stata version -** 17
+**Vesión Stata -** 17
 #
 
-**Background**
+**Antecedentes**
 
-Older adults and Indigenous peoples are placed more vulnerable to the effects of the COVID-19 pandemic.
+Los adultos mayores son vulnerables a los efectos de la pandemia de COVID-19, acentuándose en los adultos mayores indígenas.
 
-**Objective**
-1. To determine the association between sociodemographic variables with self-reported COVID-19 symptoms.
-2. To investigate whether this relationship shows inequalities by ethnicity and age.
+**Objetivos**
+1. Determinar la asociación entre las variables sociodemográficas y los síntomas auto reportados por COVID-19 de personas mayores.
+2. Investigar la desigualdad de esta relación por condición étnica.
 
-**Methods**
+**Métodos**
 
-Using the *[2020 Household Survey](http://anda.ine.gob.bo/index.php/catalog/88/get-microdata)* I performed bivariate analysis to establish trends.
-Subsequently using logistic regressions to establish the risks to self-reported COVID-19 symptoms.
-A fully interacted model is analysed by ethnicity.
+Utilizando como fuente la *[Encuesta de Hogares 2020](http://anda.ine.gob.bo/index.php/catalog/88/get-microdata)* inicialmente se realizó un análisis bivariado para establecer tendencias en variables sociodemográficas seleccionadas.
+Posteriormente, se utilizaron regresiones logísticas para establecer los riesgos de los síntomas COVID-19 auto declarados.
+Se analiza un modelo totalmente interactuado por condición étnica.
 
 **Results**
 
-> Those who were living alone were less likely than those living in a Couple with/without relatives’ household arrangement to self-reported COVID-19 symptoms (OR = 0.79, 95% CI: 0.66–0.94, p < .01).
->
-> Odds of the older persons aged 45-59 (OR = 1.44, 95% CI: 1.27–1.62, p < .05) were relatively more likely than younger people (OR = 1.19, 95% CI: 1.05–1.35, p < .01). Indigenous living in a couple with/without children household arrangement were less likely than non-Indigenous (OR = 0.75, 95% CI: 0.62–0.90, p < .01).
->
-> Odds of Indigenous people of age 30-44 (OR = 1.26, 95% CI: 1.04–1.53, p < .01) were more likely than non-Indigenous.
->
-> Odds of Indigenous persons of age 45-59 (OR = 1.59, 95% CI: 1.32–1.91, p < .05) were more likely than non-Indigenous (OR = 1.32, 95% CI: 1.12–1.55, p < .01).
+> En cuanto la ocupación, se observa que las personas mayores no indígenas que realizan trabajo manual (OR = 2.98, 95% CI: 1.37–6.49, p < .01) tienen 2.98 veces mayor chance de auto reportar síntomas por COVID-19.
+> 
+> Así como las personas mayores no indígenas que tienen alguna ocupación como Directivo, Profesional y técnico, Administrativo (OR = 2.97, 95% CI: 1.26–7, p < .001) tienen 2.97 veces más chance de auto reportar síntomas por COVID-19.
+> 
+> Las personas mayores indígenas y que trabajan (OR = 3.40, 95% CI: 1.06–10.94, p < .001) tienen 2.13 veces más chance de auto reportar síntomas por COVID-19.
+> 
+> Las personas mayores no indígenas que viven en un hogar compuesto con/sin familiares, tienen 69% más probabilidad de auto reportar síntomas por COVID-19.
+> 
+> Las personas mayores no indígenas que no están afiliadas a ningún seguro (OR = 0.63, 95% CI: 0.43–0.91, p < .001) tiene una probabilidad 37% menor de auto reportar síntomas por COVID-19 respecto a las personas mayores no indígenas afiliadas a un seguro público.
+> 
+> Las personas mayores indígenas (OR = 0.33, 95% CI: 0.13–0.85, p < .001) registran 67% menos chance de auto reportar síntomas por COVID-19 respecto a las personas mayores no indígenas.
 
-**Conclusions**
+**Conclusiones**
 
-> 45-59 age group shows higher risk factors and those aged 60+ show lower risks. These are increased in people working in managerial, administrative and professional, and technical positions, those living in a household with/without relatives, men, those living in urban areas, and/or non-indigenous people.
+> El ser de condición indígena muestra menor riesgo de auto reportar síntomas por COVID-19, 45-59, explicando la ocupación en las personas mayores no indígenas, y aquellas indígenas con alguna ocupación manual. Asimismo el estado laboral en personas mayores indígenas. También, el residir en área urbana es un predictor de síntomas por COVID-19.

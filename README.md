@@ -39,4 +39,4 @@ Se analiza un modelo totalmente interactuado por condición étnica.
 
 **Conclusiones**
 
-> El ser de condición indígena muestra menor riesgo de auto reportar síntomas por COVID-19, 45-59, explicando la ocupación en las personas mayores no indígenas, y aquellas indígenas con alguna ocupación manual. Asimismo el estado laboral en personas mayores indígenas. También, el residir en área urbana es un predictor de síntomas por COVID-19.
+> El ser de condición indígena muestra menor riesgo de auto reportar síntomas por COVID-19, explicando la ocupación en las personas mayores no indígenas, y aquellas indígenas con alguna ocupación manual. Asimismo el estado laboral en personas mayores indígenas. También, el residir en área urbana es un predictor de síntomas por COVID-19.

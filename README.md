@@ -6,7 +6,7 @@
 
 **E-mail -** vladimir_pinto@hotmail.com
 
-**Vesión Stata -** 17
+**Versión Stata -** 17
 #
 
 **Antecedentes**

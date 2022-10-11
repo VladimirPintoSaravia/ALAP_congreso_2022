@@ -1,6 +1,6 @@
 # **Desigualdades en variables sociodemográficas en el auto reporte de síntomas por COVID-19 de las personas bolivianas de 60+, por condición étnica**
 
-## Este es el código ultilizado en el paper aceptado para la conferencia a realizarse en Valparaiso (6-9 de diciembre, 2022).
+## Código ultilizado en el paper aceptado para la conferencia a realizarse en Valparaiso (6-9 de diciembre, 2022).
 
 **Autor -** Vladimir Pinto Saravia
 

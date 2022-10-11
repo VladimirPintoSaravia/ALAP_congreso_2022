@@ -4,7 +4,7 @@
 
 **Autor -** Vladimir Pinto Saravia
 
-**E-mail -** vladimir_pinto@hotmail.com
+**E-mail -** vpinto@colmex.mx
 
 **Versión Stata -** 17
 #

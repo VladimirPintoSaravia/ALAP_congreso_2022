@@ -13,7 +13,7 @@
 
 **Antecedentes**
 
-Entre las dos primeras olas de la pandemia por COVID-19 se evidenció una mayor mortalidad en personas de 60+, aunque no se tiene suficiente evidencia sobre el comportamiento de esta pandemia en poblaciones de personas indígenas de 60+.
+Entre las dos primeras olas de la pandemia por COVID-19 se evidenció una mayor mortalidad en personas de 60+, aunque no se tiene suficiente evidencia sobre el comportamiento de esta pandemia en poblaciones de personas mayores indígenas.
 
 **Objetivos**
 1. determinar la asociación entre las variables sociodemográficas y los síntomas auto reportados por COVID-19 de personas mayores.

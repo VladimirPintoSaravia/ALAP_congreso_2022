@@ -1,6 +1,6 @@
 # **Desigualdad sociodemográfica en el auto reporte de síntomas por COVID-19 de las personas mayores bolivianas, por condición étnica**
 
-## Código ultilizado en el paper aceptado para la conferencia a realizarse en Valparaíso - Chile (6-9 de diciembre, 2022).
+## Código ultilizado en el paper aceptado para el X Congreso ALAP - Crisis sanitaria, política y socioeconómica en América Latina y el Caribe: contribución de los estudios de población, Valparaíso - Chile (6-9 de diciembre, 2022).
 
 **Autor -** Vladimir Pinto Saravia
 

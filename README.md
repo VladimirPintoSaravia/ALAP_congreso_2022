@@ -1,4 +1,4 @@
-# **Desigualdades en variables sociodemográficas en el auto reporte de síntomas por COVID-19 de las personas bolivianas de 60+, por condición étnica**
+# **Desigualdad sociodemográfica en el auto reporte de síntomas por COVID-19 de las personas bolivianas de 60+, por condición étnica**
 
 ## Código ultilizado en el paper aceptado para la conferencia a realizarse en Valparaíso - Chile (6-9 de diciembre, 2022).
 
